@@ -1,0 +1,8 @@
+.team-card {
+  min-height: 0px !important;
+  cursor: pointer !important;
+}
+
+.sponsor-text {
+  color: blue;
+}

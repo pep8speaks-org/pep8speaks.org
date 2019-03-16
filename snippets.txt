@@ -1,0 +1,32 @@
+1. Add custom css
+---
+    <link href="custom.css" rel="stylesheet">
+---
+
+2. Add custom js
+---
+    <script async="" src="./custom.js"></script>
+---
+
+3. Remove old GA and replace with new one
+---
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117726844-4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-117726844-4');
+    </script>
+---
+
+4. Add spons div
+---
+          <div onclick="window.open('https://ccextractor.org')" class="team-card flex flex-column center-vertical center-horizontal w100">
+---
+
+5. Add spons div
+---
+          <div onclick="window.open('https://github.com/debugger22')" class="team-card flex flex-column center-vertical center-horizontal w100">
+---
