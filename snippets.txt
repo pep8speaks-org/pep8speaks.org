@@ -30,3 +30,8 @@
 ---
           <div onclick="window.open('https://github.com/debugger22')" class="team-card flex flex-column center-vertical center-horizontal w100">
 ---
+
+6. Add spons div
+---
+          <div onclick="window.open('https://python.org')" class="team-card flex flex-column center-vertical center-horizontal w100">
+---
