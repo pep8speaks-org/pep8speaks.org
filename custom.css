@@ -6,3 +6,7 @@
 .sponsor-text {
   color: blue;
 }
+
+.user-image {
+  border-radius: 0%;
+}
